@@ -20,7 +20,6 @@ function getComputerChoice() {
     return computerSelection;
 }
 
-
 function playRound(player, computer) {
     player = player.toLowerCase();
     computer = computer.toLowerCase();
